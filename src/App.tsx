@@ -26,28 +26,30 @@ function App() {
       image: "/character/one.png",
     },
     {
-      content: `Recently, we met.
-      And somehow, you've been on my mind ever since.
+      content: `Three years into this journey of love, 
+      and you're still the best thing that's ever happened to me.
       `,
       image: "/character/two.png",
     },
     {
-      content: `Then we went on our first date…And I realized—yep, I want this girl. For life.
+      content: `Every time I see your smile, 
+      I'm reminded of just how lucky I am to have you as my girl.
       `,
       image: "/character/three.png",
     },
     {
-      content: `You're beautiful, you're smart, you're fun,
-and you make spending time together feel too short.`,
+      content: `You're beautiful, smart, and you're so much fun. 
+      Spending time with you always feels too short.`,
       image: "/character/four.png",
     },
     {
-      content: `I look forward to when I'll see you again,
-hold your hands, and look into your pretty eyes.`,
+      content: `I can’t wait to see you again, to hold your hands, 
+      and to get lost in your pretty eyes.
+      `,
       image: "/character/five.png",
     },
     {
-      content: "So now I've got a question for you…",
+      content: "But before then, I have just one question…",
       image: "/character/six.png",
     },
     {
